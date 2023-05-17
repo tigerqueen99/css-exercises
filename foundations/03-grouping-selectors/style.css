@@ -1,0 +1,16 @@
+.black,
+.pink {
+    font-size: 36px;
+}
+
+.black {
+    color: rgb(233, 228, 228);
+    background-color: rgb(24, 14, 14); 
+}
+
+.pink {
+    color: hsl(225, 80%, 50%);
+    background-color:rgb(190, 95, 202);
+    
+}
+
